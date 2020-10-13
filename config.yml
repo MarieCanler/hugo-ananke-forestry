@@ -1,6 +1,6 @@
-baseURL: "http://example.org/"
+baseURL: "http://mariecanler/"
 languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+title: "Au fil du temps"
 
 module:
   imports:
