@@ -1,6 +1,6 @@
 baseURL: "http://canlermarie.netlify.app/"
 languageCode: "en-us"
-title: "Au fil de la musique"
+title: "Au fil du rythme"
 
 module:
   imports:
