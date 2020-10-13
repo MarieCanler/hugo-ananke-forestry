@@ -1,7 +1,7 @@
 ---
 title: Contact
 featured_image: "/images/no-music-no-life.jpeg"
-omit_header_text: true
+omit_header_text: false
 description: We'd love to hear from you
 type: page
 menu:
