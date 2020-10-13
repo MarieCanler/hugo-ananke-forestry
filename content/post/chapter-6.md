@@ -17,30 +17,21 @@ Un instant plus tard, il manquait une symphonie destinée à produire le plus gr
 
 Il s'approcha d'un groupe de bourgeois qui lui sembla discuter de sa pièce. C'est le fragment de conversation qu'il a attrapé, -
 
-“You know, Master Cheneteau, the Hôtel de Navarre, which belonged to
-Monsieur de Nemours?”
+\- Vous savez, maître Cheneteau, l'hôtel de Navarre, qui appartenait à monsieur de Nemours?
 
-“Yes, opposite the Chapelle de Braque.”
+«Oui, en face de la Chapelle de Braque.
 
-“Well, the treasury has just let it to Guillaume Alixandre, historian, for
-six hivres, eight sols, parisian, a year.”
+«Eh bien, la trésorerie vient de le céder à Guillaume Alixandre, historien, pour six hivres, huit sols, parisien, un an.
 
-“How rents are going up!”
+«Comme les loyers augmentent!»
 
-“Come,” said Gringoire to himself, with a sigh, “the others are
-listening.”
+\- Allons, se dit Gringoire en soupirant, les autres écoutent.
 
-“Comrades,” suddenly shouted one of the young scamps from the window, “La
-Esmeralda! La Esmeralda in the Place!”
+«Camarades», cria soudain un des jeunes coquins de la fenêtre, «La Esmeralda! La Esmeralda à la place!
 
-This word produced a magical effect. Every one who was left in the hall
-flew to the windows, climbing the walls in order to see, and repeating,
-“La Esmeralda! La Esmeralda?” At the same time, a great sound of applause
-was heard from without.
+Ce mot produisit un effet magique. Tous ceux qui restaient dans le hall volaient vers les fenêtres, escaladaient les murs pour voir et répétaient: «La Esmeralda! La Esmeralda? En même temps, un grand bruit d'applaudissements a été entendu de l'extérieur.
 
-“What’s the meaning of this, of the Esmeralda?” said Gringoire, wringing
-his hands in despair. “Ah, good heavens! it seems to be the turn of the
-windows now.”
+"Quelle est la signification de ceci, de l'Esmeralda?" dit Gringoire en se tordant les mains de désespoir. «Ah, bon Dieu! il semble que ce soit le tour des fenêtres maintenant.
 
 He returned towards the marble table, and saw that the representation had
 been interrupted. It was precisely at the instant when Jupiter should have
