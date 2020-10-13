@@ -1,40 +1,21 @@
 ---
 date: 2017-04-14T11:25:05.000-04:00
 description: Esmeralda
-featured_image: "/images/esmeralda.jpg"
+featured_image: "/images/no-music-no-life.jpeg"
 tags: []
 title: 'Chapter VI: Esmeralda'
 disable_share: false
 
 ---
-We are delighted to be able to inform the reader, that during the whole of
-this scene, Gringoire and his piece had stood firm. His actors, spurred on
-by him, had not ceased to spout his comedy, and he had not ceased to
-listen to it. He had made up his mind about the tumult, and was determined
-to proceed to the end, not giving up the hope of a return of attention on
-the part of the public. This gleam of hope acquired fresh life, when he
-saw Quasimodo, Coppenole, and the deafening escort of the pope of the
-procession of fools quit the hall amid great uproar. The throng rushed
-eagerly after them. “Good,” he said to himself, “there go all the
-mischief-makers.” Unfortunately, all the mischief-makers constituted the
-entire audience. In the twinkling of an eye, the grand hall was empty.
+Nous sommes ravis de pouvoir informer le lecteur que pendant toute cette scène, Gringoire et sa pièce ont tenu bon. Ses comédiens, poussés par lui, avaient cessé de lancer sa comédie, et il avait cessé de l'écouter. Il avait pris sa décision sur le tumulte et était résolu à aller jusqu'au bout, sans renoncer à l'espoir d'un retour d'attention de la part du public. Cette lueur d'espoir reprit une vie nouvelle, publiée vit Quasimodo, Coppenole et l'escorte assourdissante du pape de la procession des fous la salle au milieu d'un grand tumulte. La foule se précipita après eux. «Bien», se dit-il, «voilà tous les malfaiteurs. Malheureusement, tous les malfaiteurs constituaient l'ensemble du public. En un clin d'œil, la grande salle était vide.
 
-To tell the truth, a few spectators still remained, some scattered, others
-in groups around the pillars, women, old men, or children, who had had
-enough of the uproar and tumult. Some scholars were still perched astride
-of the window-sills, engaged in gazing into the Place.
+A vrai dire, il restait encore quelques spectateurs, certains dispersés, d'autres en groupes autour des piliers, femmes, vieillards ou enfants, qui en avaient assez du tumulte et du tumulte. Certains savants étaient encore perchés à califourchon sur les appuis de fenêtre, regardés à regarder la place.
 
-“Well,” thought Gringoire, “here are still as many as are required to hear
-the end of my mystery. They are few in number, but it is a choice
-audience, a lettered audience.”
+«Eh bien, pensa Gringoire, il y en a encore autant qu'il en faut pour entendre la fin de mon mystère. Ils sont peu nombreux, mais c'est un public de choix, un public lettré.
 
-An instant later, a symphony which had been intended to produce the
-greatest effect on the arrival of the Virgin, was lacking. Gringoire
-perceived that his music had been carried off by the procession of the
-Pope of the Fools. “Skip it,” said he, stoically.
+Un instant plus tard, il manquait une symphonie destinée à produire le plus grand effet sur l'arrivée de la Vierge. Gringoire s'aperçut que sa musique avait été emportée par la procession du Pape des Fous. «Sautez», dit-il, stoïquement.
 
-He approached a group of bourgeois, who seemed to him to be discussing his
-piece. This is the fragment of conversation which he caught,—
+Il s'approcha d'un groupe de bourgeois qui lui sembla discuter de sa pièce. C'est le fragment de conversation qu'il a attrapé, -
 
 “You know, Master Cheneteau, the Hôtel de Navarre, which belonged to
 Monsieur de Nemours?”
