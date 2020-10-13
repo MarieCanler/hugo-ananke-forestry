@@ -1,6 +1,6 @@
 baseURL: "http://mariecanler/"
 languageCode: "en-us"
-title: "Au fil du temps"
+title: "Au fil de la musique"
 
 module:
   imports:
